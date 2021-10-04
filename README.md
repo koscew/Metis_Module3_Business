@@ -3,7 +3,7 @@
 
 This is the third project of Metis Data Science Bootcamp. We're going to deliver a well-scoped project proposal and preliminary analysis to the target client to try to get the foot in the door.
 
-<p hidden>
+<!--
 ***
 
 [Presentation Slides](final_presentation.pdf)
@@ -22,7 +22,7 @@ This is the third project of Metis Data Science Bootcamp. We're going to deliver
 
 [MVP](mvp.md)
 </p>
-
+-->
 ***
 
 [Project Proposal](project_proposal.md)
