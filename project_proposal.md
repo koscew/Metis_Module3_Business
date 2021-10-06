@@ -70,6 +70,7 @@ Total Number of Penalties|1
         *  Build a model to interpret the factor of the occupation rate
     *  Measures of success: 
         * Adjust R-squared is above 0.6
+        * Increase the occupation rate to 80%
     *  Risks and assumptions: 
         *  Marketing effort and local environment
         *  The quality ratings are related to the occupation rate
