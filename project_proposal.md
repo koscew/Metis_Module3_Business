@@ -64,14 +64,14 @@ Total Number of Penalties|1
 #### MVP Goal:
 * Complete the components of the proposal below
     *  Impact hypothesis
-      *  Increase the occupation rate
+        *  Increase the occupation rate
     *  Solution paths: (pick one) other are options
-      *  Build a model to interpret the factor of the occupation rate
+        *  Build a model to interpret the factor of the occupation rate
     *  Measures of success: 
-      * Adjust R-squared is above 0.6
+        * Adjust R-squared is above 0.6
     *  Risks and assumptions: 
-      *  Marketing effort and local environment
-      *  The quality ratings are related to the occupation rate
+        *  Marketing effort and local environment
+        *  The quality ratings are related to the occupation rate
 * Some charts of the preliminary analysis
 
 >* What would a minimum viable product (MVP) look like for this project?
