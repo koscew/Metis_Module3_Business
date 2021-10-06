@@ -57,6 +57,7 @@ Total Number of Penalties|1
 #### Tools:
 * Microsoft Excel or Google Sheets for exploratory data analysis
 * Tableau for data visualization
+* Python Pandas and Statsmodels for OLS baseline model
 
 >* How do you intend to meet the tools requirement of the project? 
 >* Are you planning in advance to need or use additional tools beyond those required?
