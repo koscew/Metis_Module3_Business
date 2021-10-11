@@ -6,7 +6,7 @@ The goal of this project is to deliver a well-scoped project proposal and prelim
 To start exploring this goal, I developed a written proposal and used the data of [Nursing Homes Including Rehab Services - Provider Information](https://data.cms.gov/provider-data/dataset/4pq5-n9py) on [Centers for Medicare & Medicaid Services](https://www.cms.gov/) to do preliminary analysis.
 
 * Backstory
-    * Occupancy at U.S skilled nursing facilities has been stable between 80% and 85% for years. However, there was a huge drop in 2020 due to the pandemic. Many facilities have been facing challenges.
+    * Occupancy at U.S skilled nursing facilities has been stable between 80% and 85% for years. However, there was a huge drop to about 70% in 2020 due to the pandemic. Many facilities have been facing challenges.
 * Business Problem
     * How can nursing facilities with the occupancy below the national average or the average of its state increase its occupancy?
 * Solution paths: 
@@ -22,5 +22,6 @@ To start exploring this goal, I developed a written proposal and used the data o
 * Preliminary Analysis
 ![distribution_occupancy](images/distribution_occupancy.png)
 ![state_occupancy](images/state_occupancy.png)
+![overallrating_occupancy](images/overallrating_occupancy.png)
 
 I will continue with EDA and build a baseline model. 
