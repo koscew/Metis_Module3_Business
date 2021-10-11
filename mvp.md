@@ -21,5 +21,6 @@ To start exploring this goal, I developed a written proposal and used the data o
     * The quality measures are related to the occupancy
 * Preliminary Analysis
 ![distribution_occupancy](images/distribution_occupancy.png)
+![state_occupancy](images/state_occupancy.png)
 
 I will continue with EDA and build a baseline model. 
