@@ -14,11 +14,11 @@ To start exploring this goal, I developed a written proposal and used the data o
 * Impact hypothesis
     * By better understanding how the factors affect the occupancy, the nursing facilities can make more informed decisions about identifying and prioritizing which areas to improve to increase its occupancy.
 * Measures of success:
-    * Adjust R-squared is above 0.5
-    * Increase the occupancy to the average of its state
+    * Adjust R-squared is above 0.5.
+    * The nursing facilities with the occupancy below the average of its state increase the occupancy to the average of its state.
 * Risks and assumptions:
-    * Marketing effort and local environment
-    * The quality measures are related to the occupancy
+    * Risk: The information of marketing effort and the region population structur is lacking.
+    * Assumption: The occupancy are correlated woth the quality measures.
 * Preliminary Analysis
     * The chart below shows the distribution of the occupancy at U.S. skilled nursing facilities. The mean of the occupancy was about 69% and 28% of the nursing facilities had more than 79% occupancy. 
 ![distribution_occupancy](images/distribution_occupancy.png)
