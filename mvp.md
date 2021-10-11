@@ -20,8 +20,11 @@ To start exploring this goal, I developed a written proposal and used the data o
     * Marketing effort and local environment
     * The quality measures are related to the occupancy
 * Preliminary Analysis
+    * The chart below shows the distribution of the occupancy at U.S. skilled nursing facilities. The mean of the occupancy was about 69% and 28% of the nursing facilities had more than 79% occupancy. 
 ![distribution_occupancy](images/distribution_occupancy.png)
+    * The chart below shows the average occupancy at U.S. skilled nursing facilities in each state. The result showed the occupancy varies among the states. We will need to consider the effect by the regions and control it in the model. 
 ![state_occupancy](images/state_occupancy.png)
+    * The chart below shows the average of the difference between the occupancy of each nursing facility and its state average occupancy. The result showed the trend that higher ratings had higher occupancy. 
 ![overallrating_occupancy](images/overallrating_occupancy.png)
 
-I will continue with EDA and build a baseline model. 
+I will start to make the draft of the slides, continue with EDA, and build a baseline model. 
