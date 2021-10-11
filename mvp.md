@@ -1,7 +1,7 @@
 ## Proposal for Nursing Facilities
 ###### Chien Yuan Chang
 
-The goal of this project is to deliver a well-scoped project proposal and preliminary analysis to a struggling nursing facility with a low occupation rate to let them understand and accept how data science can help them increase the occupation rate.
+The goal of this project is to deliver a well-scoped project proposal and preliminary analysis to a struggling nursing facility with a low occupancy to let them understand and accept how data science can help them increase the occupancy.
 
 To start exploring this goal, I developed a written proposal and used the data of [Nursing Homes Including Rehab Services - Provider Information](https://data.cms.gov/provider-data/dataset/4pq5-n9py) on [Centers for Medicare & Medicaid Services](https://www.cms.gov/) to do preliminary analysis.
 
