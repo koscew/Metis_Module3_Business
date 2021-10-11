@@ -20,6 +20,6 @@ To start exploring this goal, I developed a written proposal and used the data o
     * Marketing effort and local environment
     * The quality measures are related to the occupancy
 * Preliminary Analysis
-
+![distribution_occupancy](distribution_occupancy.png)
 
 I will continue with EDA and build a baseline model. 
