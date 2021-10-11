@@ -18,11 +18,11 @@ This is the third project of Metis Data Science Bootcamp. We're going to deliver
 
 [Data](data/)
 
+-->
 ***
 
 [MVP](mvp.md)
-</p>
--->
+
 ***
 
 [Project Proposal](project_proposal.md)
