@@ -15,7 +15,7 @@ The goal of this project is to deliver a well-scoped project proposal and prelim
 * Impact hypothesis
     * By better understanding how the factors affect the occupancy, the nursing facilities can make more informed decisions about identifying and prioritizing which areas to improve to increase their occupancy.
 * Measures of success:
-    * Adjust R-squared is above 0.5.
+    * Mean absolute error is less than 0.05.
     * The nursing facilities with the occupancy below the average of its state increase the occupancy to the average of its state.
 * Risks and assumptions:
     * Risk: The information of marketing effort and the population structure of the regions  is lacking.

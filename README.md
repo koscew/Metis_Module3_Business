@@ -31,7 +31,7 @@ This is the third project of Metis Data Science Bootcamp. We're going to deliver
 
 <summary>Bonus</summary>
 
-![](images/2020_data_diagnostic.png)
+![]
 
 </details>
 -->
